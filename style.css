@@ -1,0 +1,60 @@
+body {
+  font-family: 'Cormorant SC', serif;
+  font-size: 30px;
+  background-image: url("https://wallpaperaccess.com/full/395770.jpg");
+}
+
+h1 {
+color: #575F7D
+}
+
+h2 {
+ color: #575F7D;
+}
+
+p {
+  font-weight: 200;
+  color: #7ECD90
+}
+
+a {
+  text-decoration: none;
+}
+#bigbox {
+  width: 100%;
+  background-color: rgba(0,0,0,0.6);
+  box-shadow: 0 10px 30px rgb(255, 254, 254);
+  margin: 0 auto;
+ }
+
+.card-white {
+  background-color: rgba(0,0,0,0.6);
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgb(255, 254, 254);
+  text-align: center;
+  margin: 50px;
+}
+
+#mi {
+ border-radius: 50%;
+ border: 5px solid rgb(246, 236, 236);
+}
+
+ul{
+  color:white;
+}
+#intro{
+  background-color: #2D2F3F;
+  color: #7ECD90;
+  padding: 15px 20px;
+}
+
+#my_list{
+  display: inline;
+  list-style: none;
+  padding-left: none;
+}
+#my_list > li{
+  display: inline;
+}
